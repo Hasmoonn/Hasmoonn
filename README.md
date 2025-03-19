@@ -7,7 +7,7 @@ I'm a **Software Engineering student** at Sabaragamuwa University of Sri Lanka, 
   💻 Proficient in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
   🤖 Exploring **Machine Learning** and **AI**
   🔍 Interested in Software Development and Web Applications
-
+  
 🛠️ **Technologies & Tools**
   **Programming Languages:** JavaScript, Python, Java
   **Frontend:** React.js, Tailwind CSS
@@ -17,7 +17,7 @@ I'm a **Software Engineering student** at Sabaragamuwa University of Sri Lanka, 
   **Version Control:** Git, GitHub
 
 **🌱 Ongoing Projects**  
-  🚗 Online Parking Slot Reservation system
+  🚗 Online Parking Slot Reservation system 
   🏦 Loan Approval Prediction System (ML)
 
 ---
