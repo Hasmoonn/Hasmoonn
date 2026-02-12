@@ -196,6 +196,15 @@ I enjoy transforming complex challenges into efficient, reliable, and user-cente
 
   <img src="https://github-readme-stats.vercel.app/api?username=Hasmoonn&show_icons=true&theme=dracula&count_private=true" height="180"/>
 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasmoonn&layout=compact&theme=radical&hide_border=true&border_radius=10" 
+    height="170"
+  />
+
+ <img 
+    src="https://github-profile-trophy.vercel.app/?username=Hasmoonn&theme=radical&no-frame=true&margin-w=8&margin-h=8" 
+  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasmoonn&layout=compact&theme=dracula" height="180"/>
 
   <img src="https://streak-stats.demolab.com?user=Hasmoonn&theme=dracula" height="180"/>
