@@ -12,8 +12,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=39&section=header&reversal=false&text=Hi%F0%9F%91%8B,%20I'm%20Mohamed%20Hasmoon&fontSize=38&fontColor=00F5FF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=twinkling&descSize=18&descAlign=50&descAlignY=50&textBg=false&color=00F5FF" />
 </div>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDN1YXh2bnhqYWtxZWt5aW9ub2xyazdvbnRoOG8yMWxmb21rcXBnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
+<div align=center>
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
 <br>
@@ -47,7 +47,7 @@
 ###
 
 
-<h1 align="center"></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <div>
@@ -83,7 +83,7 @@ I enjoy transforming complex challenges into efficient, reliable, and user-cente
 ###
 
 
-<h1 align="center"></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=28&section=header&reversal=false&text=%F0%9F%9B%A0%20Language%20and%20tools&fontSize=23&fontColor=FF9F1C&fontAlign=15&fontAlignY=50&stroke=-&strokeWidth=0&descSize=18&descAlign=50&descAlignY=50&textBg=false"  />
@@ -188,36 +188,19 @@ I enjoy transforming complex challenges into efficient, reliable, and user-cente
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OThmODA5dm05NXo3cXQweHdoZ3FiY2dkczBjeXpkcHVvYmF3cnV2ZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ViQb3BY5WQNQiQJd90/giphy.gif"  />
+  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hasmoonn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-###
+  <img height="180em" src="https://streak-stats.demolab.com?user=Hasmoonn&theme=algolia"/>
+   
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hasmoonn&layout=compact&langs_count=8&theme=algolia"/>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasmoonn&show_icons=true&theme=dracula&count_private=true" height="180"/>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasmoonn&layout=compact&theme=radical&hide_border=true&border_radius=10" 
-    height="170"
-  />
-
- <img 
-    src="https://github-profile-trophy.vercel.app/?username=Hasmoonn&theme=radical&no-frame=true&margin-w=8&margin-h=8" 
-  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasmoonn&layout=compact&theme=dracula" height="180"/>
-
-  <img src="https://streak-stats.demolab.com?user=Hasmoonn&theme=dracula" height="180"/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasmoonn&theme=dracula&margin-w=10&margin-h=10" height="150"/>
-
-</div>
+ 
 
 
-###
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center" style="width: 100%">
+
+<div align="center" style="width:100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@mohamedhasmoon175/0">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@mohamedhasmoon175/0" alt="Medium post 1"  />
   </a>
@@ -230,7 +213,7 @@ I enjoy transforming complex challenges into efficient, reliable, and user-cente
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasmoonn/Hasmoonn/output/snake-dark.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Hasmoonn/Hasmoonn/output/snake.svg">
+  <img align="center" alt="Snake animation" src="https://raw.githubusercontent.com/Hasmoonn/Hasmoonn/output/snake.svg">
 </picture>
 
 
