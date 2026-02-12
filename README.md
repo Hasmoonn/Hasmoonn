@@ -12,18 +12,17 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=39&section=header&reversal=false&text=Hi%F0%9F%91%8B,%20I'm%20Mohamed%20Hasmoon&fontSize=38&fontColor=00F5FF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=twinkling&descSize=18&descAlign=50&descAlignY=50&textBg=false&color=00F5FF" />
 </div>
 
-
-<!-- Flex container for right GIF -->
-<div style="display: flex; justify-content: flex-end; margin-top: 20px;">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3UxbjM5em81dThhZWV3NjZwd2k0cDloYXcyazJlOTB1eHJ0aXQ4aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kXjt5JYY71fthiZdIi/giphy.gif" />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDN1YXh2bnhqYWtxZWt5aW9ub2xyazdvbnRoOG8yMWxmb21rcXBnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 </div>
 
+<br>
 
 <!-- Visitor counter -->
-<div align="center" style="margin-top: 20px;">
+<div align="center">
   <img src="https://count.getloli.com/@:hasmoonn?theme=booru-lewd&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 </div>
-
+  
 
 ###
 
@@ -56,9 +55,8 @@
 </div>
 
 
-<img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNjcmxhaW5uMmtjbWxibWFsaWFjcWl6N2E1NGN3cDd6eHFkNnRhNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DJ2Uss6szRzIFrJAuD/giphy.gif" />
-
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDN1YXh2bnhqYWtxZWt5aW9ub2xyazdvbnRoOG8yMWxmb21rcXBnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HOiAe2wA8RftbE59dc/giphy.gif"  />
+
 
 <p align="left">
 
@@ -91,10 +89,7 @@ I enjoy transforming complex challenges into efficient, reliable, and user-cente
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=28&section=header&reversal=false&text=%F0%9F%9B%A0%20Language%20and%20tools&fontSize=23&fontColor=FF9F1C&fontAlign=15&fontAlignY=50&stroke=-&strokeWidth=0&descSize=18&descAlign=50&descAlignY=50&textBg=false"  />
 </div>
 
-###
-
-<img align="left" height="200" style="margin: 10px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDN1YXh2bnhqYWtxZWt5aW9ub2xyazdvbnRoOG8yMWxmb21rcXBnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
-
+<br clear="both">
 
 ###
 
@@ -184,7 +179,6 @@ I enjoy transforming complex challenges into efficient, reliable, and user-cente
 
 ###
 
-<br clear="both">
 
 <h1 align="center"></h1>
 
