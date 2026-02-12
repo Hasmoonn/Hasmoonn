@@ -1,26 +1,29 @@
 <br clear="both">
 
+<!-- Main animated header -->
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=90&section=header&reversal=false&fontSize=85&fontColor=FF6B6B&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=blinking&desc=Code.%20Create.%20Innovate.%20Repeat.&descSize=21&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=90&section=header&reversal=false&fontSize=85&fontColor=FF6B6B&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=blinking&desc=Code.%20Create.%20Innovate.%20Repeat.&descSize=21&descAlign=50&descAlignY=50&textBg=false&theme=cobalt" />
 </div>
-
-###
 
 <br clear="both">
 
+<!-- Introduction header -->
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=39&section=header&reversal=false&text=Hi%F0%9F%91%8B,%20I'm%20Mohamed%20Hasmoon&fontSize=38&fontColor=00F5FF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=twinkling&descSize=18&descAlign=50&descAlignY=50&textBg=false&color=00F5FF"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=39&section=header&reversal=false&text=Hi%F0%9F%91%8B,%20I'm%20Mohamed%20Hasmoon&fontSize=38&fontColor=00F5FF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=twinkling&descSize=18&descAlign=50&descAlignY=50&textBg=false&color=00F5FF" />
 </div>
 
-###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3UxbjM5em81dThhZWV3NjZwd2k0cDloYXcyazJlOTB1eHJ0aXQ4aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kXjt5JYY71fthiZdIi/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:hasmoonn?theme=booru-lewd&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<!-- Flex container for right GIF -->
+<div style="display: flex; justify-content: flex-end; margin-top: 20px;">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3UxbjM5em81dThhZWV3NjZwd2k0cDloYXcyazJlOTB1eHJ0aXQ4aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kXjt5JYY71fthiZdIi/giphy.gif" />
 </div>
+
+
+<!-- Visitor counter -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://count.getloli.com/@:hasmoonn?theme=booru-lewd&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
+</div>
+
 
 ###
 
