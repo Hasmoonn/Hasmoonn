@@ -193,10 +193,10 @@ I enjoy transforming complex challenges into efficient, reliable, and user-cente
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hasmoonn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=hasmoonn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasmoonn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=hasmoonn&theme=dracula" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Hasmoonn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasmoonn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasmoonn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Hasmoonn&theme=dracula" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -213,6 +213,10 @@ I enjoy transforming complex challenges into efficient, reliable, and user-cente
 
 ###
 
-<img src="https://raw.githubusercontent.com/hasmoonn/hasmoonn/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasmoonn/Hasmoonn/output/snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Hasmoonn/Hasmoonn/output/snake.svg">
+</picture>
+
 
 ###
