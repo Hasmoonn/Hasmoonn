@@ -187,12 +187,12 @@ I enjoy transforming complex challenges into efficient, reliable, and user-cente
 
 ###
 
-  <img align="left" height="180em" align="left" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hasmoonn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="left" height="180em" align="left" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hasmoonn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" width="420em" align="right" src="https://streak-stats.demolab.com?user=Hasmoonn&theme=algolia"/>
+  <img height="180em" width="400em" align="right" src="https://streak-stats.demolab.com?user=Hasmoonn&theme=algolia"/>
 
    
-  <img height="180em" width="420em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hasmoonn&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="400em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hasmoonn&layout=compact&langs_count=8&theme=algolia"/>
 
  
 
